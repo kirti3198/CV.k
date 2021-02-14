@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    
+  } 
+  body {
+     margin: auto;
+    background-color: lightblue;
+  }
+  .Cv .Cv_leftside .Cv_content {
+    padding: 25px;
+  }
+  .Cv {
+    width: 690px;
+    height: auto;
+    display: flex;
+    margin: 50px auto;
+  }
+  .Cv .Cv_lefside.Cv_profile {
+    width: 380px;
+    height: 100px;
+    background: #0bb5f4;
+    display: flex;    
+
+  }
+  .Cv .Cv_leftside {
+    width: 280px;
+    background: #0bb5f4;
+  }
+  
+  .contact {
+    width: 800px;
+    height: 100px;
+    margin: 50px auto;
+  }
+ .Cv_rightside {
+  border-bottom: 0px;
+  }
+  
+ .Cv_rightside {
+    width: 120px;
+    height:120px ;
+    background: #fff;
+    padding: 30px;
+  }
+  
+
+  .Cv_rightside {
+    width: 500px;
+    height:auto;
+    display:flex;
+    margin: 10px auto;
+}
+  
+  .Cv .Cv_rightside .Profile.p  {
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    
+  }
+
